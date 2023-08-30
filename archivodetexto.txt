@@ -1,3 +1,4 @@
-Aquí se escribe la primera línea de código 
-aquí la segunda
+Aquí se escribe la primera línea de código
 y aquí la 3ra
+aquí agrego otra línea después de eliminar la segunda
+y aquí otra más
